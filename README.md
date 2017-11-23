@@ -1,5 +1,5 @@
 # SKATR
-The pakcage provides some efficient and accurate calculation of significance p-values for SKAT and SKAT-O.
+The pakcage provides some efficient and accurate algorithms to compute significance p-values for SKAT and SKAT-O.
 
 # Reference
 Wu,B., Guan,W., Pankow,J.S. (2016).On efficient and accurate calculation of significance p-values for sequence kernel association test of variant set. *AHG*, 80(2), 123-135.
