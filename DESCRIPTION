@@ -1,0 +1,11 @@
+Package: SKATR
+Title: Revised implementation of sequence kernel association test for variant set
+Version: 0.1.0
+Imports: CompQuadForm
+Description: This package implements several alternative algorithms for sequence kernel association tests of variant set.
+Depends: R (>= 3.0.0)
+License: GPL (>= 2)
+LazyData: true
+Author: Baolin Wu [aut, cre]
+Maintainer: Baolin Wu <baolin@umn.edu>
+RoxygenNote: 6.0.1
